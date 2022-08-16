@@ -1,0 +1,21 @@
+#navbar-el{
+    background-color: #1A1C1E;
+    color: #FEFDFF;
+    height: 10vh;
+}
+#navbar-el a{
+    color: #FEFDFF;
+}
+#navbar-brand:hover{
+    color: #fefdff9f;
+}
+input{
+    outline: none;
+    border-style: solid;
+    border-width: 1px;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
